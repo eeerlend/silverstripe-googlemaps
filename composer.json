@@ -7,8 +7,8 @@
 	"license": "BSD-3-Clause",
 	"authors": [
 		{
-			"name": "Morven Lewis-Everley",
-			"email": "morven@i-lateral.com"
+			"name": "Erlend Mongstad",
+			"email": "erlend@sixty.no"
 		}
 	],
 	"support": {
@@ -17,7 +17,6 @@
 	"require": {
 		"silverstripe/framework": ">=3.0",
 		"silverstripe/cms": ">=3.0",
-		"undefinedoffset/sortablegridfield": "dev-master"
 	},
 	"extra": {
 		"installer-name": "customgooglemaps"
